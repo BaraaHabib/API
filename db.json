@@ -1,12 +1,8 @@
 {
-"note1":[
-{
-"id":1
-"content":"note 1 body"
-},
-{
-"id":2
-"content":"note 2 body"
-}
+  "notes": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ]
 }
